@@ -1,0 +1,45 @@
+.back {
+    background-image: url(../assets/ForestPic.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.direct {
+    
+    flex-direction: row;
+}
+
+.space {
+    /* justify-content: space-evenly; */
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+
+.bg {
+    background-image: url(../assets/Forestpic2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.ground {
+    background-image: url(../assets/forest3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ground2 {
+    background-image: url(../assets/forest3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.yot {
+   justify-content: center;
+   display: flex;
+   align-self: center;
+ 
+}
